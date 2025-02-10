@@ -1,3 +1,3 @@
-kolla/debian-source-swift-base:4.0.0
+kolla/debian-source-swift-base:yoga
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
